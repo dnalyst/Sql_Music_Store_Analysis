@@ -35,8 +35,6 @@
   
   ● Joins and Subqueries to merge and analyze different tables efficiently.
   
-  ● Data Visualization to showcase key findings (using external tools if needed).
-
 # Database Structure
   
   The project utilizes tables such as:
